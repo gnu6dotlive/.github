@@ -1,4 +1,4 @@
-# gnu6.live
+# gnu6dotlive
 
 **Local-first Linux computing, built in the open — with its evidence.**
 *L'informatique locale sous Linux, construite à découvert — preuves comprises.*
