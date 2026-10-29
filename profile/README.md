@@ -3,10 +3,10 @@
 **Local-first Linux computing, built in the open — with its evidence.**
 *L'informatique locale sous Linux, construite à découvert — preuves comprises.*
 
-### Start here · Commencer ici → [**prologue**](https://gnu6dotlive.github.io/prologue/)
+### Start here → [**prologue**](https://gnu6dotlive.github.io/prologue/en/) · Commencer ici → [**prologue (FR)**](https://gnu6dotlive.github.io/prologue/)
 
-The four projects below, explained without jargon (in French), with what is proven and
-what is still open. A dated snapshot: October 29, 2026.
+The four projects below, explained without jargon, in English and French, with what is
+proven and what is still open. A dated snapshot: October 29, 2026.
 
 | Project | What it is | Published state |
 | --- | --- | --- |
